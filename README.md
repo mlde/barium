@@ -1,0 +1,2 @@
+# barium
+vertical window theme
